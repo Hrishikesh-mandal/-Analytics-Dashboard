@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+data/raw/*.csv
+data/processed/*.csv
+logs/*.log
+.venv/
+venv/
+README1.md
